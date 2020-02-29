@@ -1,6 +1,6 @@
 package gp.factory;
 
-import gp.domain.WeChatPay;
+import gp.factory.domain.WeChatPay;
 
 public class WeChatPayFactory implements  InsidePayFactory {
 

@@ -1,6 +1,6 @@
 package gp.factory;
 
-import gp.domain.PayPal;
+import gp.factory.domain.PayPal;
 
 public class PayPalFactory implements  OutsidePayFactory {
 

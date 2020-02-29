@@ -1,6 +1,6 @@
 package gp.factory;
 
-import gp.domain.Alipay;
+import gp.factory.domain.Alipay;
 
 public class AlipayFactory implements InsidePayFactory {
     public Alipay createPay() {

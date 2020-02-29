@@ -1,6 +1,6 @@
 package gp.factory;
 
-import gp.domain.UnionPay;
+import gp.factory.domain.UnionPay;
 
 
 public class UnionPayFactory implements  InsidePayFactory {

@@ -1,4 +1,4 @@
-package gp.domain;
+package gp.factory.domain;
 
 public class UnionPay extends Pay {
     private Long fromBankId;

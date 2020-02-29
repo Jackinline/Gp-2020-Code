@@ -1,4 +1,4 @@
-package gp.domain;
+package gp.factory.domain;
 
 public class PayPal extends Pay {
 

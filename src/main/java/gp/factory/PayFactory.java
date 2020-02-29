@@ -1,6 +1,6 @@
 package gp.factory;
 
-import gp.domain.Pay;
+import gp.factory.domain.Pay;
 
 public interface PayFactory {
      Pay createPay();

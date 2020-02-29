@@ -1,4 +1,4 @@
-package gp.domain;
+package gp.factory.domain;
 
 import java.util.Date;
 
