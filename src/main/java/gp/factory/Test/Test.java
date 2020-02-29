@@ -1,7 +1,7 @@
-package gp;
+package gp.factory.Test;
 
-import gp.domain.Alipay;
-import gp.domain.PayPal;
+import gp.factory.domain.Alipay;
+import gp.factory.domain.PayPal;
 import gp.factory.AlipayFactory;
 import gp.factory.OutsidePayFactory;
 import gp.factory.PayFactory;
