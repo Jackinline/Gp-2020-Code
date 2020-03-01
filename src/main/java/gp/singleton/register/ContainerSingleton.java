@@ -29,5 +29,4 @@ public class ContainerSingleton {
         }
         return ioc.get(className);
     }
-
 }
