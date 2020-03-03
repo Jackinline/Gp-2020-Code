@@ -1,8 +1,6 @@
 package gp.prototype.domain;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class CarBuilder {
     Car car = new Car();
