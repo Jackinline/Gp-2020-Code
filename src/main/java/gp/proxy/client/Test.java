@@ -1,4 +1,4 @@
-package gp.proxy.dynamicproxy.gpproxy.client;
+package gp.proxy.client;
 
 
 /**

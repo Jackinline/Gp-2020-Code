@@ -1,9 +1,9 @@
-package gp.proxy.dynamicproxy.gpproxy.client;
+package gp.proxy.client;
 
 
-import gp.proxy.dynamicproxy.gpproxy.proxy.GPClassLoader;
-import gp.proxy.dynamicproxy.gpproxy.proxy.GPInvocationHandler;
-import gp.proxy.dynamicproxy.gpproxy.proxy.GPProxy;
+import gp.proxy.proxy.GPClassLoader;
+import gp.proxy.proxy.GPInvocationHandler;
+import gp.proxy.proxy.GPProxy;
 
 import java.lang.reflect.Method;
 

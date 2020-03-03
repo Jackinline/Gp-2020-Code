@@ -1,4 +1,4 @@
-package gp.proxy.dynamicproxy.gpproxy.proxy;
+package gp.proxy.proxy;
 
 import javax.tools.JavaCompiler;
 import javax.tools.StandardJavaFileManager;
@@ -85,9 +85,9 @@ public class GPProxy {
                             paramValues.append(",");
                         }
                     }
-                    System.out.println(paramNames.toString());
-                    System.out.println(paramValues.toString());
-                    System.out.println(paramClasses.toString());
+//                    System.out.println(paramNames.toString());
+//                    System.out.println(paramValues.toString());
+//                    System.out.println(paramClasses.toString());
 
                     sb.append("public " + m.getReturnType().getName() + " " + m.getName() + "(" + paramNames.toString() + ") {" + ln);
                         sb.append("try{" + ln);

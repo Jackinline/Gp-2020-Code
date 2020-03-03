@@ -1,4 +1,4 @@
-package gp.proxy.dynamicproxy.gpproxy.proxy;
+package gp.proxy.proxy;
 
 import java.lang.reflect.Method;
 
