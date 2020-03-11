@@ -8,17 +8,17 @@ import gp.prototype.domain.CarBuilder;
 public class Test {
     public static void main(String[] args) {
         CarBuilder builder = new CarBuilder();
-        builder.addChair("ÒÎ×Ó");
-        builder.addSteeringWheel("·½ÏòÅÌ");
-        builder.addTyres("Ç°×óÂÖ", "Ç°ÓÒÂÖ", "ºó×óÂÖ", "ºóÓÒÂÖ", "±¸Ì¥");
+        builder.addChair("ä¸­æ–‡");
+        builder.addSteeringWheel("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+        builder.addTyres("Ç°ï¿½ï¿½ï¿½ï¿½", "Ç°ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½", "ï¿½ï¿½Ì¥");
         Car car = builder.build();
 
         Car carCopy = car.deepClone();
         carCopy.setChair(null);
         carCopy.setSteeringWheel(null);
-        //Car(chair=ÒÎ×Ó, steeringWheel=·½ÏòÅÌ, tyres=[Ç°×óÂÖ, Ç°ÓÒÂÖ, ºó×óÂÖ, ºóÓÒÂÖ, ±¸Ì¥])
+        //Car(chair=ï¿½ï¿½ï¿½ï¿½, steeringWheel=ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, tyres=[Ç°ï¿½ï¿½ï¿½ï¿½, Ç°ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½Ì¥])
         System.out.println(car.toString());
-        //Car(chair=null, steeringWheel=null, tyres=[Ç°×óÂÖ, Ç°ÓÒÂÖ, ºó×óÂÖ, ºóÓÒÂÖ, ±¸Ì¥])
+        //Car(chair=null, steeringWheel=null, tyres=[Ç°ï¿½ï¿½ï¿½ï¿½, Ç°ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½, ï¿½ï¿½Ì¥])
         System.out.println(carCopy.toString());
         //false
         System.out.println(car.getTyres() == carCopy.getTyres());

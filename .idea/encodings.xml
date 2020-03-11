@@ -1,37 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/DbRouteProxyTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/IOrderService.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/Order.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/OrderDao.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/OrderService.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/db/DynamicDataSourceEntity.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/proxy/OrderServiceDynamicProxy.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dbroute/proxy/OrderServiceStaticProxy.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/cglibproxy/CGlibMeipo.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/cglibproxy/CglibTest.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/cglibproxy/Customer.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/client/GpMeipo.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/client/IPerson.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/client/Test.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/client/Zhangsan.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/proxy/GPClassLoader.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/proxy/GPInvocationHandler.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/gpproxy/proxy/GPProxy.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/jdkproxy/IPerson.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/jdkproxy/JdkMeipo.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/jdkproxy/Test.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/jdkproxy/Zhangsan.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/dynamicproxy/jdkproxy/ZhaoLiu.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/general/Client.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/general/ISubject.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/general/Proxy.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/general/RealSubject.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/staticproxy/IPerson.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/staticproxy/Test.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/staticproxy/ZhangLaosan.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/staticproxy/ZhangSan.java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java/gp/proxy/staticproxy/ZhaoLiu.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
   </component>
 </project>
